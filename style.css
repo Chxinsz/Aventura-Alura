@@ -1,0 +1,10 @@
+body {
+    background-color: olive;
+    color:bisque;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
